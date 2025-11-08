@@ -27,3 +27,6 @@ source .venv/bin/activate
 
 pip install -e .
 
+## Demo Video
+https://drive.google.com/file/d/1LKtbLTE_eONxPLzAL_5NbG3qMwYkAvtr/view?usp=sharing
+
